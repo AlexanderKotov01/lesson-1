@@ -24,3 +24,5 @@ print (discounted (100,5, max_discount=133))
 #print (discounted(product["price"], product["discount"])) 
 #product ["with_discount"] = discounted(product["price"], product["discount"])
 #print (product)
+
+print ("New commit")
